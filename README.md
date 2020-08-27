@@ -9,3 +9,5 @@ In powershell :
 ```powershell
 .\update.ps1 'D:\PortableApps\VSCode\'
 ```
+# PowerShell versions
+Windows PowerShell 5.1
