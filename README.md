@@ -7,5 +7,5 @@ This is a simple powershell script to automate updating  portable VS Code.
 In powershell :
 
 ```powershell
-.\update.ps1
+.\update.ps1 'D:\PortableApps\VSCode\'
 ```
